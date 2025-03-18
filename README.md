@@ -1,2 +1,2 @@
 # uepmdm
-Unidad Educativa Particular
+Unidad Educativa Particular "Mi Dulce María"
