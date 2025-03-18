@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela XYZ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Escuela XYZ</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="#programas">Programas Académicos</a></li>
+                <li><a href="#personal">Personal Docente y Administrativo</a></li>
+                <li><a href="#plataforma">Plataforma</a></li>
+                <li><a href="#consejo">Consejo Estudiantil</a></li>
+                <li><a href="#talleres">Talleres</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenidos a la Escuela XYZ</h2>
+        <p>Formamos estudiantes con excelencia académica y valores.</p>
+    </section>
+
+    <section id="sobre-nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>Somos una institución educativa comprometida con el desarrollo de nuestros alumnos.</p>
+    </section>
+
+    <section id="programas">
+        <h2>Programas Académicos</h2>
+        <p>Ofrecemos educación de calidad en primaria, secundaria y preparatoria.</p>
+    </section>
+
+    <section id="personal">
+        <h2>Personal Docente y Administrativo</h2>
+        <p>Conoce a nuestros docentes y al equipo administrativo que hacen posible nuestra misión educativa.</p>
+        <ul>
+            <li>🔹 Prof. Juan Pérez - Matemáticas</li>
+            <li>🔹 Prof. María Gómez - Ciencias</li>
+            <li>🔹 Lic. Ana López - Administración</li>
+        </ul>
+    </section>
+
+    <section id="plataforma">
+        <h2>Plataforma</h2>
+        <p>Accede a nuestra plataforma educativa para consultar materiales, notas y actividades en línea.</p>
+        <a href="#">Ir a la plataforma</a>
+    </section>
+
+    <section id="consejo">
+        <h2>Consejo Estudiantil</h2>
+        <p>El Consejo Estudiantil representa a los alumnos, promoviendo actividades y proyectos en beneficio de la comunidad escolar.</p>
+    </section>
+
+    <section id="talleres">
+        <h2>Talleres</h2>
+        <p>Contamos con una variedad de talleres extracurriculares para el desarrollo integral de nuestros estudiantes:</p>
+        <ul>
+            <li>🎭 Teatro</li>
+            <li>⚽ Deportes</li>
+            <li>🎨 Arte y Pintura</li>
+            <li>💻 Programación</li>
+        </ul>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>📍 Dirección: Calle Principal #123, Ciudad</p>
+        <p>📞 Teléfono: 123-456-7890</p>
+        <p>📧 Email: contacto@escuelaxyz.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Escuela XYZ. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
